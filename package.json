@@ -1,0 +1,19 @@
+{
+  "name": "front_end",
+  "version": "1.0.0",
+  "description": "TIE_IN",
+  "main": "login.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rahaf89/Front_End.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rahaf89/Front_End/issues"
+  },
+  "homepage": "https://github.com/Rahaf89/Front_End#readme"
+}
